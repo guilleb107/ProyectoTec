@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>proyectogit</title>
+ <link rel="stylesheet" href="C:\Users\usuario\Desarolladorweb\estilosgit.css">
+</head>
+<body>
+ <div> 
+</div>
+    <div class="warning" aling "left">
+        <img src="https://www.fundeu.es/wp-content/uploads/2021/01/voleibol-webefesptwelve224491.jpg" >
+    <div id="text">
+        <h1>¿Qué es el voleibol?</h1>
+        
+        <p>
+            El vóley o también llamado voleibol es un deporte que consta de dos equipos, compuestos de seis jugadores cada uno, que se enfrentan entre sí, dentro de una cancha dividida por una red en partes iguales. El objetivo principal de este juego es pasar el balón por encima de la red y que el mismo golpee el suelo del terreno adversario.
+        </p>
+        <h2>Características</h2>
+
+    <p>Es un juego deportivo en el cual se enfrentan dos equipos con seis integrantes cada uno. La finalidad del juego es pasar la pelota por encima de la red central al otro lado de la cancha. El elemento principal de este deporte es una pelota liviana y de fácil manipulación tanto para hombres como para mujeres.</p>
+      </div>
+    </div>
+    
+</div>
+</body>
+</html>
